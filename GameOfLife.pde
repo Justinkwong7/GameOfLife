@@ -57,9 +57,9 @@ public void keyPressed() {
         for(int c = 0; c < NUM_COLS; c++)
           buttons[r][c].alive = false;
     if(key == 'e')
-     frameRate(2);
+     frameRate(3);
     if(key == 'r')
-     frameRate(6);
+     frameRate(9);
 }
 
 public void copyFromBufferToButtons() {
