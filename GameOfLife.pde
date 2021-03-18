@@ -148,4 +148,3 @@ public void setLife(boolean living) {
     
   }
 }
-}
